@@ -1,0 +1,6 @@
+{
+  "name": "Riyadhoh Salik",
+  "description": "Emerald Islamic theme companion for spiritual seekers, providing dzikir counter, Quran reading tracker, Riyadhah target checklists, and Tazkiyah Muhasabah journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
